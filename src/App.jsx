@@ -12,7 +12,7 @@ import {
 // import cr from './Photos/cr.jpeg';
 import Lackcity from './Photos/Lackcity.jpeg';
 import Manit from './Photos/Manit.jpeg';
-import Vit1 from './Photos/Vit1.jpeg';
+import VIT1 from './Photos/VIT1.jpeg';
 import Problem from './Photos/Problem.jpeg';
 import AIBuild from './Photos/AIBuild.png';
 // import Tech from './Photos/Tech.jpeg';
@@ -941,7 +941,7 @@ const Workshops = () => {
      { 
     text: 'Participated in Hacathone – VIT University', 
     icon: CodeBracketIcon, 
-    certificate: Vit1
+    certificate: VIT1
   },
   { 
     text: '2-Day DSA Workshop – MANIT Bhopal', 
