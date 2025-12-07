@@ -23,7 +23,7 @@ import Chatbot from './Styling/Chatbot.jpg';
 import Studyhelper from "./Styling/studyhelper.jpg";
 
 import Ecommerce from './Styling/Ecommerce.jpg';
-import aastha from './Photos/aastha.jpeg';
+import aastha from './Photos/Aastha.jpeg';
 
 
 
