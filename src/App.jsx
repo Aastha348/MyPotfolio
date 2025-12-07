@@ -20,7 +20,8 @@ import Techi from './Styling/Techillustration.png';
 import resume from './Techmt/Aastha_Resume.pdf';
 import Bansal from './Photos/Bansal.jpeg';
 import Chatbot from './Styling/Chatbot.jpg';
-import Studyhelper from './Styling/Studyhelper.jpg';
+import Studyhelper from "./Styling/studyhelper.jpg";
+
 import Ecommerce from './Styling/Ecommerce.jpg';
 import aastha from './Photos/aastha.jpeg';
 
